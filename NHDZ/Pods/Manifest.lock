@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (4.5.0)
+  - BMPlayer (0.8.7):
+    - BMPlayer/Full (= 0.8.7)
+  - BMPlayer/Core (0.8.7)
+  - BMPlayer/Full (0.8.7):
+    - BMPlayer/Core
+    - NVActivityIndicatorView (~> 3.5)
+    - SnapKit (~> 3.2)
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - Kingfisher (3.10.3)
+  - MJRefresh (3.1.12)
+  - NVActivityIndicatorView (3.7.0):
+    - NVActivityIndicatorView/Presenter (= 3.7.0)
+  - NVActivityIndicatorView/Presenter (3.7.0)
+  - ObjectMapper (2.2.8)
+  - SnapKit (3.2.0)
+  - SVProgressHUD (2.1.2)
+  - SwiftLint (0.20.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - BMPlayer
+  - FMDB
+  - Kingfisher
+  - MJRefresh
+  - ObjectMapper
+  - SnapKit
+  - SVProgressHUD
+  - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  BMPlayer: 5ba9e3f3d61ccc5a24ebd9cdc24901dcf28c98bc
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  Kingfisher: a0ac82dc5bcf0388dd74b294cf2cc13730c63436
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  NVActivityIndicatorView: d3738df7e2e476aca0ba6bf32a8c9fbcfc33d64b
+  ObjectMapper: 3d571bb5af471c779e1160828cd9ad5c4ef90958
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  SwiftLint: f60095dc173a3f3ec505bb34f5229c3dfd779a54
+
+PODFILE CHECKSUM: 409b2d40bed801c09f9e24c3c4aa6e8b7bd753ff
+
+COCOAPODS: 1.2.0.beta.1
